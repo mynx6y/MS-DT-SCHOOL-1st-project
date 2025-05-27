@@ -1,2 +1,1 @@
-# MS-DT-SCHOOL-1st-project
-Microsoft Data School 1차 프로젝트 2팀 깃허브
+# 데2팀 이민지 개인 브랜치\n이민지 팀원의 개인 작업 내용🖥️
